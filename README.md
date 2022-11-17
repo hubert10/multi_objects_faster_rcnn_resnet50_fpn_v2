@@ -1,6 +1,6 @@
 # README
 
-Multi Class Object Detection using PyTorch Faster RCNN ResNet50 FPN V2
+**Multi Class Object Detection using PyTorch Faster RCNN ResNet50 FPN V2**
 
 PyTorch recently released an improved version of the Faster RCNN object detection model. They call it the Faster RCNN ResNet50 FPN V2. This model is miles ahead in terms of detection quality compared to its predecessor, the original Faster RCNN ResNet50 FPN. In this repo, we will discover what makes the new Faster RCNN model better, why it is better, and what kind of detection results we can expect from it.
 To improve the Faster RCNN ResNet50 (to get the V2 version) model, changes were made to both:
